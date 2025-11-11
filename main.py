@@ -1,3 +1,4 @@
-print("Hello World!")
-ask(username)
-print (username) print (is cool)
+print(Hello World!)
+print(What is your name?)
+user input(name)
+print (user+is cool)
